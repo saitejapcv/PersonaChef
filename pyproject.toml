@@ -1,0 +1,21 @@
+[project]
+name = "personachef"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "langchain>=1.4.6",
+    "langchain-google-genai>=4.4.2",
+    "langchain-tavily>=0.2.18",
+    "langgraph>=1.2.16",
+    "langgraph-api>=0.16.2",
+    "langsmith>=0.14.11",
+    "pydantic>=2.14.1",
+    "python-dotenv>=1.2.4",
+    "tavily>=1.1.0",
+]
+
+[dependency-groups]
+dev = [
+    "langgraph-cli>=0.4.37",
+]
