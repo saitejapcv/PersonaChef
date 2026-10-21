@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/langchainlearning.iml" filepath="$PROJECT_DIR$/.idea/langchainlearning.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/lc-foundations.iml" filepath="$PROJECT_DIR$/.idea/lc-foundations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PersonaChef.iml" filepath="$PROJECT_DIR$/.idea/PersonaChef.iml" />
     </modules>
   </component>
 </project>
