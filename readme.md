@@ -44,6 +44,9 @@ The agent is exposed to LangGraph Studio through `main.py` and `langgraph.json`.
    ```env
    GOOGLE_API_KEY=your_google_ai_api_key
    TAVILY_API_KEY=your_tavily_api_key
+   LANGSMITH_API_KEY=your_langsmith_api_key
+   LANGSMITH_PROJECT=personal_chef
+   
    ```
 
    Keep this file private—do not commit API keys to version control.
